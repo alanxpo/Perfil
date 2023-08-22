@@ -1,0 +1,28 @@
+body{
+    background-color: #F6F7EB;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: #E94F37;
+}
+p{
+    color: #F6F7EB;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.div-imagen{
+    background-color: #F6F7EB;
+    border-radius: 5%;
+}
+.div-perfil{
+    background-color: #393E41;
+    text-align: center;
+    height: 750px;
+    width: 600px;
+    padding: 10px;
+    border-radius: 5%;
+    margin: 0 auto;
+}
